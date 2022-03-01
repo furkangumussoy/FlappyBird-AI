@@ -1,3 +1,3 @@
 AI Trained to play Flappy Bird
 
-Run "flappy_bird.py" to see the AI train itself 
+Run "flappy_bird.py" to see the AI train itself and play flappybird
